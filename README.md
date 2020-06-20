@@ -1,4 +1,4 @@
-## PALICACIÓN DEL CLIMA CURSO DE NODE
+## APLICACIÓN DEL CLIMA CURSO DE NODE
 
 Para ejecutar se debe aplicar npm install para usar las librerias:
 
